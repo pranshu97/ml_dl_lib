@@ -13,3 +13,5 @@ from dl_layers import ConvLayer, PoolLayer, GlobalAveragePoolLayer, DropoutLayer
 from ml_models import KMeans, KNN
 ```
 
+
+Note: For learning purposes only. Backpropagation is not implemented for the deep learning modules.
